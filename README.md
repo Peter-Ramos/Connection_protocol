@@ -65,8 +65,8 @@ Table of Contents
    2.  Terminology . . . . . . . . . . . . . . . . . . . . . . . . .   2
    3.  Protocol Overview . . . . . . . . . . . . . . . . . . . . . .   3
    4.  Protocol Header Format  . . . . . . . . . . . . . . . . . . .   3
-  4.1.  First header  . . . . . . . . . . . . . . . . . . . . . .   3
-  4.2.  Second header . . . . . . . . . . . . . . . . . . . . . .   4
+      4.1.  First header  . . . . . . . . . . . . . . . . . . . . . .   3
+      4.2.  Second header . . . . . . . . . . . . . . . . . . . . . .   4
    5.  Acknowledgements  . . . . . . . . . . . . . . . . . . . . . .   5
    6.  IANA Considerations . . . . . . . . . . . . . . . . . . . . .   5
    7.  Security Considerations . . . . . . . . . . . . . . . . . . .   5
